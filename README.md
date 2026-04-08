@@ -15,3 +15,9 @@ s(cell,k=12, bs="mrf", xt = list(nb = nb),by=glost), <br>
 <br>
 extRemes time covariate : location.fun = ~glost, scale.fun = ~glost
 ##
+
+**RextremesVSscipy_AFI.ipynb :**
+<br>
+<br>
+Comparison of different distributions for the AFI at several points.<br>
+##
