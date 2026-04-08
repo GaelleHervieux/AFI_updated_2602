@@ -21,3 +21,10 @@ extRemes time covariate : location.fun = ~glost, scale.fun = ~glost
 <br>
 Comparison of different distributions for the AFI at several points.<br>
 ##
+
+**plot_Colorado_evgam_1940-2025_scores_testbootstrap_comp_revd.ipynb :**
+<br>
+<br>
+Comparison of the Confidence Intervals computed by the simulate function provided by evgam (simulate), a traditional bootstrap method (Bootstrap) and a bootstrap method using the gev distribution (revd).
+<br>
+Methods are using a 1000 iterations.
