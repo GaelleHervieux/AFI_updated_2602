@@ -1,3 +1,5 @@
+**plot_AFI_NorthAmerica_glostLocSca_extRemes_1941-2025 :** extRemes GEV analysis on AFI at each point using a time covariate (GLOST) on the location and scale parameters. 
+
 **plot_Colorado_evgam_extremes_1940-2025_CI.ipynb :**
 <br>
 <br>
